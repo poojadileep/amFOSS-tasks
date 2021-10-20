@@ -10,5 +10,5 @@ And yes this is one of the questions i ask to myself everyday! I want to try new
 I am ready to do what club wants me to do wholeheartedly.I am interested in taking responsibilities and doing it, i am also interested in working in groups.
 
 # Do you have any feedback for the selection process?
-This is the best selection process i have ever seen.This allows us to learn so many new things without any fear.It's such a good way to learn from mistakes,we are here free to make mistakes,search for ways to resolve it,try it again and learn it.And what i loved the most is,we are open to search,make mistake,try again,practise and learn.So stress free! 
+This is the best selection process i have ever seen.This allows us to learn so many new things without any fear.It's such a good way to learn from mistakes,we are here free to make mistakes and search for ways to resolve it.And what i loved the most is,we are open to search,make mistake,try again,practise and learn.So stress free! 
 

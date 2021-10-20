@@ -1,6 +1,7 @@
 ![Screenshot from 2021-10-18 19-03-32](https://user-images.githubusercontent.com/92637957/138112167-d65a87e6-0e07-42dd-a2e3-acf398cdd21a.png)
 
 
+# commands used in terminal:
 command used for creating directory : mkdir <space> name of directory
 command used for changing the current working directory : cd <space> name of directory you want to move /
 command used for creating files : touch <space> name of file
@@ -10,7 +11,7 @@ command used for moving file or renaming file : mv <space> old file name <space>
 command used for deleting file :rm <space> file name
 
 
-# git commands:
+# git commands used :
   git config --global user.name "username"
   git config --global user.email "email"
   cd <local file directory> /

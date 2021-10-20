@@ -1,3 +1,4 @@
+![Screenshot from 2021-10-18 19-03-32](https://user-images.githubusercontent.com/92637957/138112167-d65a87e6-0e07-42dd-a2e3-acf398cdd21a.png)
 command used for creating directory : mkdir <space> name of directory
 command used for changing the current working directory : cd <space> name of directory you want to move /
 command used for creating files : touch <space> name of file

@@ -6,3 +6,16 @@ command used for copying : cp <space> name of the file to be copied <space> name
 command used for moving file or renaming file : mv <space> old file name <space> new file name
 command used for deleting file :rm <space> file name
 
+
+git commands:
+  git config --global user.name "username"
+  git config --global user.email "email"
+  cd <local file directory> /
+  git init
+  git add .
+  git commit -m "message"
+  git branch
+  git remote add origin <url of repository>
+  git remote -v
+  git remote set-url origin <url>
+  git push origin main

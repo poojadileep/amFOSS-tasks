@@ -22,8 +22,6 @@ command used for deleting file :rm <space> file name
   
   git config --global user.email "email"
   
-  cd <local file directory> /
-  
   git init
   
   git add .

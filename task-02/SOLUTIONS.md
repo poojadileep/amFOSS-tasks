@@ -30,11 +30,11 @@ command used for deleting file :rm <space> file name
   
   git branch
   
-  git remote add origin <url of repository>
+  git remote add origin (url of repository)
   
   git remote -v
   
-  git remote set-url origin <url>
+  git remote set-url origin (url)
   
   git merge origin/master
   

@@ -15,7 +15,10 @@
 |10|CS50|Partially Completed|
 |11|Poster Design|Completed|
 |12|Make the Block|Partially Completed|
-|13|Circuit Design|Not Attempted
+|13|Circuit Design|Not Attempted|
 |14|Bandit|Completed|
 |15|Project Euler|Tried but couldn't do it|
+
+# My Introduction
+
 

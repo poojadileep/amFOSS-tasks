@@ -20,4 +20,4 @@
 |15|Project Euler|Tried but couldn't do it|
 
 # My Introduction
-Namsahivayah Seniors, I am Pooja Dilep from Kerala.It was great to participate in this selection process.I was having no prior knowledge in programming but now i can see that i actually improved. I learned a lot of new things and found my interest in those topics.I am sure that i can improve a lot and learn new things if i got selected.I really wanted to join in the amFOSS club. When i started doing the tasks day by day the interest to join increased.  
+Namsahivayah Seniors, I am Pooja Dilep from Kerala.It was great to participate in this selection process.I was having no prior knowledge in programming but now i can see that i actually improved. I learned a lot of new things and found my interest in those topics.I am sure that i can improve a lot and learn new things if i get selected.I really wanted to join in the amFOSS club. When i started doing the tasks, day by day the interest to join increased.  

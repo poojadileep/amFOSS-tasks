@@ -2,7 +2,7 @@
 
 |   Task NO. | Task Name | Status |
 |------------|-----------|--------|
-|  00|Install Ubuntu | Completed|
+|[00](https://github.com/poojadileep/amFOSS-tasks/tree/main/task-00.)|Install Ubuntu | Completed|
 |01|Star all the amFOSS repositories|Completed|
 |02|Begin your journey with Linux and Git|Completed|
 |03|Programming|Not Attempted|

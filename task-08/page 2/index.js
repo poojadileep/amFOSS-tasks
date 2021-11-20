@@ -9,7 +9,7 @@ function changecolor(){
 }
 
      function console1(){
-            console.log('I did it');
+            console.log('I did it'.repeat(999);
      }
      
      function reload(){
